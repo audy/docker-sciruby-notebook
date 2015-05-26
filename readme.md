@@ -35,4 +35,6 @@ docker run \
 
 ## LICENSE
 
-MIT. See license.md for details.
+Licensed under MIT. See license.md for details.
+
+Contributions appreciated.
