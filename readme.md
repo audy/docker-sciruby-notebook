@@ -4,7 +4,7 @@ Get a working IRuby notebook inside of a Docker container.
 
 Comes with:
 
-- NMatrix
+- [NMatrix](https://github.com/sciruby/nmatrix)
 
 ## Quickstart
 
