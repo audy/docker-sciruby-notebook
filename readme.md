@@ -8,6 +8,11 @@ Comes with:
 
 ## Quickstart
 
+1. Install [Docker](https://docker.com). I use
+   [docker-machine](https://docs.docker.com/machine/) on my laptop.
+
+2. Pull and run the SciRuby-Notebook image:
+
 ```sh
 docker run \
   --publish=8888:8888 \
