@@ -11,7 +11,8 @@ Comes with:
 1. Install [Docker](https://docker.com). I use
    [docker-machine](https://docs.docker.com/machine/) on my laptop.
 
-2. Pull and run the SciRuby-Notebook image:
+2. Pull and run the
+   [SciRuby-Notebook](https://registry.hub.docker.com/u/audy/sciruby-notebook/) image:
 
 ```sh
 docker run \
