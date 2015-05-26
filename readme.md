@@ -1,6 +1,7 @@
 # Docker SciRuby/IRuby Notebook
 
-Get a working [IRuby notebook](https://github.com/minad/iruby) inside of a Docker container.
+Run an [IRuby notebook](https://github.com/minad/iruby) with various
+SciRuby libraries.
 
 Comes with:
 
